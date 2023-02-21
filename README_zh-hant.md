@@ -1,18 +1,18 @@
-# C++ Programming with VSCode on MacOS.
+# 如何在MacOS上使用VSCode去編譯C++
 
-## Install VSCode
-- Enter VSCode website and  [Download](https://code.visualstudio.com/)
+## 安裝 VSCode
+- 進入 VSCode 官網[下載](https://code.visualstudio.com/)
 ![](https://drive.google.com/uc?id=1gZ61xnfWpqUg1iJQi6tDvK4KuCrK5d91)
-- Open VSCode and Choose Extenion Tab.
+- 開啟 VSCode 選擇 Extenion 
 
-  ![](https://drive.google.com/uc?id=10WqmHhcyj8dOZCbPz1tQ4ZYApt1p1_Vz)
-- Install C/C++
+   ![](https://drive.google.com/uc?id=10WqmHhcyj8dOZCbPz1tQ4ZYApt1p1_Vz)
+- 安裝 C/C++
 ![](https://drive.google.com/uc?id=1z-EOAntNa9mg_8syyvIubaq-pPLPv2DC)
-- Install C++ Intellisense
+- 安裝 C++ Intellisense
 ![](https://drive.google.com/uc?id=1JFgVmlogyHYbCWtde7v4fCzj-pufZl9o)
 
 
-## Try to start write something by C/C++
+## 開始撰寫 C/C++
 `Exsample Code.`
 ```c++
 #include <iostream>
@@ -25,14 +25,14 @@ int main()
 }
 ```
 
-## Build Project
-- Press the <font color=#4169e1>Run and Debug</font> button, and select the <font color=#4169e1>Clang++</font> build method.
+## 編譯專案
+- 按下 <font color=#4169e1>Run adn Debug</font> 按鈕，並且選擇 <font color=#4169e1>Clang++</font> 的建置方式 
 ![](https://drive.google.com/uc?id=1hhmOE6ttKAx4AGdhXPo9POkULMmpCUzc)
-- You can see the log after success.
+- 可以看到成功後的log.
 ![](https://drive.google.com/uc?id=1tHWVpl0JaQX-1sS6k56ET5G3n-hQPyM4)
-## Breakpoint and Debugger
-- Set breakpoint, you can see variables data to be check.
+## 中斷除錯
+- 設立中斷點，檢視中斷當下的變數資料. 
 ![](https://drive.google.com/uc?id=1H_KzIV95LrBaKQJB0ykxHdfQRLlA9fGM)
 
-## Reference Document
+## 參考文件
 https://code.visualstudio.com/docs/languages/cpp

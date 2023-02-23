@@ -34,4 +34,4 @@ int main()
 ![](https://drive.google.com/uc?id=1H_KzIV95LrBaKQJB0ykxHdfQRLlA9fGM)
 
 ## 參考文件
-https://code.visualstudio.com/docs/languages/cpp
+[官方文件](https://code.visualstudio.com/docs/languages/cpp)

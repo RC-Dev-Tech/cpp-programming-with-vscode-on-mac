@@ -1,27 +1,27 @@
-# ![](https://drive.google.com/uc?id=10INx5_pkhMcYRdx_OO4rXNXxcsvPtBYq) C++ Programming with VSCode on MacOS.
+# ![](https://drive.google.com/uc?id=10INx5_pkhMcYRdx_OO4rXNXxcsvPtBYq) 如何在MacOS上使用VSCode去編譯C++
 
 <!--ts-->
-## Table of contents
-* [Install VSCode](#install-vscode)
-* [Build Project](#build-project)
-* [Breakpoint and Debugger](#breakpoint-and-debugger)
-* [Reference Document](#reference-document)
+## 目錄
+* [安裝 VSCode](#安裝-vscode)
+* [編譯專案](#編譯專案)
+* [中斷除錯](#中斷除錯)
+* [參考文件](#參考文件)
 <!--te-->
 
 ---
+<br>
 
-## Install VSCode
-- Enter VSCode website and  [Download](https://code.visualstudio.com/) <br>
+## 安裝 VSCode
+- 進入 VSCode 官網[下載](https://code.visualstudio.com/) <br>
   ![](https://drive.google.com/uc?id=1gZ61xnfWpqUg1iJQi6tDvK4KuCrK5d91)
-- Open VSCode and Choose Extenion Tab. <br>
+- 開啟 VSCode 選擇 Extenion <br>
   ![](https://drive.google.com/uc?id=10WqmHhcyj8dOZCbPz1tQ4ZYApt1p1_Vz)
-- Install C/C++ <br>
+- 安裝 C/C++ <br>
   ![](https://drive.google.com/uc?id=1z-EOAntNa9mg_8syyvIubaq-pPLPv2DC)
-- Install C++ Intellisense <br>
+- 安裝 C++ Intellisense <br>
   ![](https://drive.google.com/uc?id=1JFgVmlogyHYbCWtde7v4fCzj-pufZl9o)
 
-
-## Try to start write something by C/C++
+## 開始撰寫 C/C++
 `Exsample Code.`
 ```c++
 #include <iostream>
@@ -33,21 +33,32 @@ int main()
     return 0;
 }
 ```
----
 
-## Build Project
-- Press the <font color=#4169e1>Run and Debug</font> button, and select the <font color=#4169e1>Clang++</font> build method. <br>
+---
+<br>
+
+## 編譯專案
+- 按下 <font color=#4169e1>Run adn Debug</font> 按鈕，並且選擇 <font color=#4169e1>Clang++</font> 的建置方式 <br>
   ![](https://drive.google.com/uc?id=1hhmOE6ttKAx4AGdhXPo9POkULMmpCUzc)
-- You can see the log after success. <br>
+- 可以看到成功後的log. <br>
   ![](https://drive.google.com/uc?id=1tHWVpl0JaQX-1sS6k56ET5G3n-hQPyM4)
 
 ---
+<br>
 
-## Breakpoint and Debugger
-- Set breakpoint, you can see variables data to be check. <br>
-  ![](https://drive.google.com/uc?id=1H_KzIV95LrBaKQJB0ykxHdfQRLlA9fGM)
+## 中斷除錯
+- 設立中斷點，檢視中斷當下的變數資料. <br>
+![](https://drive.google.com/uc?id=1H_KzIV95LrBaKQJB0ykxHdfQRLlA9fGM)
 
 ---
+<br>
 
-## Reference Document
-[VisualStudio Docs](https://code.visualstudio.com/docs/languages/cpp)
+## 參考文件
+[官方文件](https://code.visualstudio.com/docs/languages/cpp)
+
+---
+<br>
+
+<!--ts-->
+## [返回目錄](#目錄)
+<!--te-->

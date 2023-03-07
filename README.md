@@ -54,7 +54,7 @@ int main()
 <br>
 
 ## 參考文件
-[官方文件](https://code.visualstudio.com/docs/languages/cpp)
+* [官方文件](https://code.visualstudio.com/docs/languages/cpp)
 
 ---
 <br>

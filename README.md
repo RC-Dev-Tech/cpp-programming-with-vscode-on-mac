@@ -1,5 +1,7 @@
 # ![](https://drive.google.com/uc?id=10INx5_pkhMcYRdx_OO4rXNXxcsvPtBYq) 如何在MacOS上使用VSCode去編譯C++
 
+---
+
 <!--ts-->
 ## 目錄
 * [安裝 VSCode](#安裝-vscode)
@@ -9,7 +11,6 @@
 <!--te-->
 
 ---
-<br>
 
 ## 安裝 VSCode
 - 進入 VSCode 官網[下載](https://code.visualstudio.com/) <br>
@@ -35,7 +36,6 @@ int main()
 ```
 
 ---
-<br>
 
 ## 編譯專案
 - 按下 <font color=#4169e1>Run adn Debug</font> 按鈕，並且選擇 <font color=#4169e1>Clang++</font> 的建置方式 <br>
@@ -44,23 +44,20 @@ int main()
   ![](https://drive.google.com/uc?id=1tHWVpl0JaQX-1sS6k56ET5G3n-hQPyM4)
 
 ---
-<br>
 
 ## 中斷除錯
 - 設立中斷點，檢視中斷當下的變數資料. <br>
 ![](https://drive.google.com/uc?id=1H_KzIV95LrBaKQJB0ykxHdfQRLlA9fGM)
 
 ---
-<br>
 
 ## 參考資料
 * [官方文件](https://code.visualstudio.com/docs/languages/cpp)
 
 ---
-<br>
 
----
 <!--ts-->
 #### [目錄 ↩](#目錄)
 <!--te-->
+
 ---
